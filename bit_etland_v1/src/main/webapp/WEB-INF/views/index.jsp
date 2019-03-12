@@ -77,7 +77,7 @@
 					          <li><a href="#signin" id="signin" type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">signin</a></li>
 					          
 					        </ul>
-					        
+					        <!--  -->
 					     </div>
 					</div>
  				</nav>
