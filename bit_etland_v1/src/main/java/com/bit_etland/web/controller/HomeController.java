@@ -27,7 +27,7 @@ public class HomeController {
 		logger.info("/n ---------- Welcome {} !! ------------", "home");
 		pxy.setContext();
 		
-		return "index.jsp";
+		return "algorithm.jsp";
 	}
 	@RequestMapping("/move/{dir}/{page}")
 	public String move(@PathVariable String dir, @PathVariable String page ) {
